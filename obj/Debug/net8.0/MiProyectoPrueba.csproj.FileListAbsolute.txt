@@ -1,0 +1,14 @@
+/home/jose/MiProyectoPrueba/bin/Debug/net8.0/MiProyectoPrueba
+/home/jose/MiProyectoPrueba/bin/Debug/net8.0/MiProyectoPrueba.deps.json
+/home/jose/MiProyectoPrueba/bin/Debug/net8.0/MiProyectoPrueba.runtimeconfig.json
+/home/jose/MiProyectoPrueba/bin/Debug/net8.0/MiProyectoPrueba.dll
+/home/jose/MiProyectoPrueba/bin/Debug/net8.0/MiProyectoPrueba.pdb
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.AssemblyInfoInputs.cache
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.AssemblyInfo.cs
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.csproj.CoreCompileInputs.cache
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.dll
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/refint/MiProyectoPrueba.dll
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.pdb
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/MiProyectoPrueba.genruntimeconfig.cache
+/home/jose/MiProyectoPrueba/obj/Debug/net8.0/ref/MiProyectoPrueba.dll
